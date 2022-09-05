@@ -39,7 +39,7 @@ Include your plot here
 
 Include Classification Report here
 
-### Confusion MAtrix
+### Confusion Matrix
 
 Include confusion matrix here
 
