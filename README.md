@@ -14,42 +14,52 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+<img src="https://github.com/yoursenpai69/dl-exp2/blob/main/nn_model.JPG" alt="not available" title="Optional title">
 
 ## DESIGN STEPS
 
 ### STEP 1:
-
+  Load the dataset.
 ### STEP 2:
-
+  Split the dataset into training and testing.
 ### STEP 3:
-Write your own steps
-
+  One hot encode the categorical data.
+### STEP 4:
+  Create MinMaxScalar objects ,fit the model and transform the data.
+### STEP 5:
+  Build the Neural Network Model and compile the model.
+### STEP 6:
+  Train the model with the training data.
+### STEP 7:
+  Plot the performance plot
+### STEP 8:
+  Evaluate the model with the testing data.
 ## PROGRAM
 
 Include your code here
 
 ## Dataset Information
 
-Include screenshot of the dataset
+<img src="https://github.com/yoursenpai69/dl-exp2/blob/main/nn_model.JPG" alt="not available" title="Optional title">
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+<img src="https://github.com/yoursenpai69/dl-exp2/blob/main/loss_plot.JPG" alt="not available" title="Optional title">
 
 ### Classification Report
 
-Include Classification Report here
+<img src="https://github.com/yoursenpai69/dl-exp2/blob/main/class_report.JPG" alt="not available" title="Optional title">
 
 ### Confusion Matrix
 
-Include confusion matrix here
+<img src="https://github.com/yoursenpai69/dl-exp2/blob/main/conf_matrix.JPG" alt="not available" title="Optional title">
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+<img src="https://github.com/yoursenpai69/dl-exp2/blob/main/output.JPG" alt="not available" title="Optional title">
 
 ## RESULT
+Successfully built a neural network classification model for the given dataset and produced successful results.
